@@ -1,0 +1,4 @@
+
+On va créer un script qui prendra en compte 2 arguments: 
+- deux numéros qui s'ajouteront
+le script renvoie donc le résultat
